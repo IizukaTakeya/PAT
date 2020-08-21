@@ -17,3 +17,6 @@
 2020.08.07:一杯茶，一包烟，一个bug改一天；一支笔，一杯酒，一个超时整一宿
 
 2020.08.21:1044怎么写都不对，我可能是个智障
+https://blog.csdn.net/daniel960601/article/details/62890995
+https://blog.csdn.net/loststephon/article/details/49100507
+太顶了，不用二分法也能解决
