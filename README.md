@@ -23,3 +23,5 @@ https://blog.csdn.net/daniel960601/article/details/62890995
 https://blog.csdn.net/loststephon/article/details/49100507
 
 太顶了，不用二分法也能解决
+
+2020.08.25:已经暴躁到看见超时就想骂人了
